@@ -2,7 +2,7 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="80%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
@@ -18,17 +18,17 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+* 👨‍💻 I'm Makwana Bharat👋, a college student, I'm currently pursuing a Master Degree MCA in the Dharamshih Desai Universe 🎓. <br><br><br>
 
-* 🌳 I’m currently learning TypeScript, React and NextJS! <br><br><br>
+* 🌳 I’m currently learning TypeScript, React andReact Native! <br><br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+* 🌊 2024 Goals: Get Job In Top MNC Companies... <br><br><br>
 
-* ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
+* ☕ Interest: Designing, Drawing, Coffee, and Coding. <br><br><br>
 
-* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, and Playing <br><br>
 
 <h2></h2>
 
