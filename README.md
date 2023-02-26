@@ -16,7 +16,7 @@
 
 <img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
 * 👨‍💻 I'm Makwana Bharat👋, a college student, I'm currently pursuing a Master Degree MCA in the Dharamshih Desai Universe 🎓. <br><br><br>
 
@@ -32,8 +32,8 @@
 
 <h2></h2>
 
-<img src="./animated-flame-01.gif" width="16px" align="left"/>
-<img src="./animated-flame-01.gif" width="16px" align="right"/>
+<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
@@ -49,12 +49,12 @@
 <h2></h2>
 
 <div align="center">
-  <img src="./pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 
 <div align="center">
-  <img src="./animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./animated-flame-01.gif" width="16px" align="right"/>
+  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
@@ -105,8 +105,8 @@
 
 <h2></h2>
 
-<img src="./animated-flame-01.gif" width="16px" align="left"/>
-<img src="./animated-flame-01.gif" width="16px" align="right"/>
+<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
@@ -120,4 +120,4 @@
 </div>
 
 <!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<img src="./animated-wave.svg" />
+<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
