@@ -110,7 +110,7 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
+  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App](https://github.com/AJAX-Codder/pathdarshak" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
   </a>
 <!--   <span>&nbsp;</span>
