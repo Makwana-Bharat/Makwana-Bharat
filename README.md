@@ -1,9 +1,9 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div align="center">
-  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="1.75%" height="100px" align="left"/>
+  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="left"/>
   <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="50%" align="middle"/>
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="right"/>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
 
@@ -14,9 +14,9 @@
 
 <h2></h2>
 
-<img align="right" src="./vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+<img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught<img src="./animated-flame-01.gif" height="24px"/> and passionate<img src="./animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
 * 👨‍💻 I'm Makwana Bharat👋, a college student, I'm currently pursuing a Master Degree MCA in the Dharamshih Desai Universe 🎓. <br><br><br>
 
