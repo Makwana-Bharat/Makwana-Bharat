@@ -1,7 +1,7 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="50%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
