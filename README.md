@@ -111,7 +111,7 @@
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/AJAX-Codder/pathdarshak" target="_blank">
-    <img src="https://github-readme-stats-Ajax-Codder.vercel.app/api/pin/?username=AJAX-Codder&theme=radical&repo=pathdarshk" width="49%" alt="Pathdarshak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAX-Codder&theme=radical&repo=pathdarshk" width="49%" alt="Pathdarshak"/>
   </a>
 <!--   <span>&nbsp;</span>
   <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
