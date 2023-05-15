@@ -62,12 +62,14 @@
   <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <strong>Tools:</strong><br/>
+  <div>
+   <strong>Tools:</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" alt="skills logos" /> <br>
   <strong>Languages (Programming & Scripting):</strong><br/>
   <img src="https://skillicons.dev/icons?i=babel,html,css,js,java,c,cpp,php,linux" alt="skills logos" /> <br>
   <strong>Framworks & other:</strong></br>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,react-native,leafleft" alt="skills logos" /> <br>
+  </div>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=react,redux,mongodb,firebase,python" alt="skills actively learning logos"> <br> 
