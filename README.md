@@ -50,7 +50,7 @@
 <h2></h2>
 
 <div align="center">
-<!--   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br> -->
+  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 
 <div align="center">
