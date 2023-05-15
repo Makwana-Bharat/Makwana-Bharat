@@ -71,7 +71,9 @@
     Languages (Programming & Scripting)
     
    <img src="https://skillicons.dev/icons?i=babel,html,css,js,java,c,cpp,php,linux" alt="skills logos" /> <br>
-  <strong>Framworks & other:</strong></br>
+  
+    Framworks & other
+    
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,react-native,leafleft" alt="skills logos" /> <br>
   </div>
   <h2></h2>
