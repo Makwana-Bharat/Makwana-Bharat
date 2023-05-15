@@ -93,12 +93,12 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AJAX-Codder&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=AJAX-Codder&theme=radical&no-frame=true&no-bg=true" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=Ajax-Codder&theme=radical" width="49%" alt="streaks graph" />
 <!--   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /> -->
 </div> <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AJAX-Codder&custom_title=Makwana Bharat%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Makwana Bharat Github Activity Graph" width="100%">
 </div>
 
 </br>
