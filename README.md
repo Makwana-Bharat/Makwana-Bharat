@@ -96,9 +96,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
 <!--   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /> -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJAX-Codder)](https://github.com/anuraghazra/github-readme-stats)
 </div> <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJAX-Codder)](https://github.com/AJAX-Codder/github-readme-stats)
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
 </div>
