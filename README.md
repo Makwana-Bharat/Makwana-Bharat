@@ -98,7 +98,7 @@
 <!--   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /> -->
 </div> <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AJAX-Codder&custom_title=Makwana Bharat%20GitHub%20Activity%20Graph&area=true" alt="Makwana Bharat Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AJAX-Codder&area=true" alt="Makwana Bharat Github Activity Graph" width="100%">
 </div>
 
 </br>
