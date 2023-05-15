@@ -1,22 +1,22 @@
-![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
-![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
+![image](https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/pixel-night-banner.gif)
+![image](https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/borderseparator.gif)
 <div align="center">
-  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="left"/>
+  <img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" height="100px" align="left"/>
   <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="50%" align="middle"/>
-  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="right"/>
+  <img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" height="100px" align="right"/>
 </div>
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
+<img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/borderseparator.gif"/>
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://profile-counter.glitch.me/AJAX-Codder/count.svg" />
 </div>
 
 <h2></h2>
 
-<img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+<img align="right" src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught &nbsp; <img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate<img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
 * 👨‍💻 I'm Makwana Bharat👋, a college student, I'm currently pursuing a Master Degree MCA in the Dharamshih Desai Universe 🎓. <br><br><br>
 
@@ -32,8 +32,8 @@
 
 <h2></h2>
 
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
+<img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
@@ -50,16 +50,16 @@
 <h2></h2>
 
 <div align="center">
-<!--   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br> -->
+<!--   <img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br> -->
 </div>
 
 <div align="center">
-  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
+  <img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
-<!--   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br> -->
+<!--   <img src="https://github-readme-stats-AJAX-Codder.vercel.app/api/top-langs/?username=AJAX-Codder&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br> -->
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
 <!--   <img src="https://skillicons.dev/icons?i=git,github,githubactions,babel,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,java,cpp,py,md,mysql,regex,svg,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br> -->
@@ -93,32 +93,31 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
-<!--   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AJAX-Codder&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=AJAX-Codder&theme=radical" width="49%" alt="streaks graph" />
+<!--   <img src="https://github-readme-stats-AJAX-Codder.vercel.app/api?username=AJAX-Codder&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /> -->
 </div> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AJAX-Codder&custom_title=AJAX-Codder's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="AJAX-Codder's Github Activity Graph" width="100%">
 </div>
 
 </br>
 
 <h2></h2>
 
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
+<img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/AJAX-Codder/pathdarshak" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+    <img src="https://github-readme-stats-Ajax-Codder.vercel.app/api/pin/?username=AJAX-Codder&theme=radical&repo=pathdarshk" width="49%" alt="Pathdarshak"/>
   </a>
 <!--   <span>&nbsp;</span>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  <a href="https://github.com/AJAX-Codder/Authentic-Pinoy-Recipes-App" target="_blank">
+    <img src="https://github-readme-stats-AJAX-Codder.vercel.app/api/pin/?username=AJAX-Codder&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
   </a> -->
 </div>
 
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
+<!-- <img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+<img src="https://github.com/AJAX-Codder/AJAX-Codder/blob/master/assets/animated-wave.svg" />
