@@ -113,6 +113,8 @@
   <a href="https://github.com/AJAX-Codder/pathdarshak" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=pathdarshak&theme=radical" width="49%" alt="Pathdarshak"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical" width="49%" alt="Voice Based Code Editor"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=HalDharak&theme=radical" width="49%" alt="HalDharak"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/>
   </a>
 <!--   <span>&nbsp;</span>
   <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
