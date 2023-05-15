@@ -62,7 +62,7 @@
   <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,babel,html,css,boostrap,tailwind,js,react,java,c,cpp,php,mysql,vscode,linux,figma,postman" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,babel,html,css,bootstrap,tailwind,js,react,java,c,cpp,php,mysql,vscode,linux,figma,postman" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=react,redux,mongodb,firebase,python" alt="skills actively learning logos"> <br> 
