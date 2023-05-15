@@ -112,6 +112,7 @@
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/AJAX-Codder/pathdarshak" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=pathdarshak&theme=radical" width="49%" alt="Pathdarshak"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical" width="49%" alt="Voice Based Code Editor"/>
   </a>
 <!--   <span>&nbsp;</span>
   <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
