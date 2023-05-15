@@ -58,7 +58,7 @@
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=AJAX-Codder&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
