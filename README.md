@@ -121,14 +121,22 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/AJAX-Codder/HalDharak" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=HalDharak&theme=radical" width="49%" alt="HalDharak"/>
+  </a>
   <a href="https://github.com/AJAX-Codder/pathdarshak" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=pathdarshak&theme=radical" width="49%" alt="Pathdarshak"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical" width="49%" alt="Voice Based Code Editor"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=cultivator&theme=radical" width="49%" alt="Cultivator"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/>
-    
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/> -->
   </a>
+  <a href="https://github.com/AJAX-Codder/VBior_React_Native_Cli" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical" width="49%" alt="Voice Based Code Editor"/>
+  </a>
+  <a href="https://github.com/AJAX-Codder/cultivator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=cultivator&theme=radical" width="49%" alt="Cultivator"/>
+  </a>
+  <a href="https://github.com/AJAX-Codder/Spend_Tracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/>
+  </a>
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/> -->
 <!--   <span>&nbsp;</span>
   <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
