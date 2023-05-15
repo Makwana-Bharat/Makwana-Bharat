@@ -1,16 +1,15 @@
-![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
-![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
-  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="left"/>
-<!--   <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="50%" align="middle"/> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Makwana Bharat+and+Welcome+to+my+Profile!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="right"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Makwana+Bharat+and+Welcome+to+my+Profile!" alt="Hey, I'm Makwana Bharat and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
+<img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://profile-counter.glitch.me/AJAX-Codder/count.svg" />
 </div>
 
 <h2></h2>
