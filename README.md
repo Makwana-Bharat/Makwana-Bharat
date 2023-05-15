@@ -2,17 +2,19 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines= Hey%2C+I'm+Makwana+Bharat+and+Welcome+to+my+Profile!" alt="Hey, I'm Makwana Bharat and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/AJAX-Codder/count.svg" />
+  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
 </div>
 
 <h2></h2>
+
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
 <img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
