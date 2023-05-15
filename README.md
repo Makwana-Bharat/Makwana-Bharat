@@ -62,13 +62,13 @@
   <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,babel,html,css,sass,tailwind,js,react,java,c,cpp,php,mysql,vscode,,figma,postman" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,babel,html,css,boostrap,tailwind,js,react,java,c,cpp,php,mysql,vscode,linux,figma,postman" alt="skills logos" /> <br>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react native,redux,mongodb,firebase,python" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=react,redux,mongodb,firebase,python" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-<!--   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,docker,dotnet,electron,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,tensorflow,vue" alt="skills planning to learn logos"> -->
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,docker,express,linux,vue" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
