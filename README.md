@@ -131,7 +131,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=pathdarshak&theme=radical" width="49%" alt="Pathdarshak"/>
   </a>
   <a href="https://github.com/AJAX-Codder/VBior_React_Native_Cli" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical" width="49%" alt="Voice Based Code Editor"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical&custom_title=VBior" width="49%" alt="Voice Based Code Editor"/>
   </a>
   <a href="https://github.com/AJAX-Codder/cultivator" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=cultivator&theme=radical" width="49%" alt="Cultivator"/>
