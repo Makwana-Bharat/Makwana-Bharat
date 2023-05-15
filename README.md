@@ -74,7 +74,7 @@
   
     Framworks & other
     
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,react-native,leafleft" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,leafleft" alt="skills logos" /> <br>
   </div>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
