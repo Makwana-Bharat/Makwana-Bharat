@@ -63,8 +63,10 @@
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <div>
-   <strong>Tools:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" alt="skills logos" /> <br>
+    
+  Tools:
+  
+    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" alt="skills logos" /> <br>
   <strong>Languages (Programming & Scripting):</strong><br/>
   <img src="https://skillicons.dev/icons?i=babel,html,css,js,java,c,cpp,php,linux" alt="skills logos" /> <br>
   <strong>Framworks & other:</strong></br>
