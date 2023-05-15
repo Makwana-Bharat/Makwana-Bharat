@@ -2,7 +2,8 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div align="center">
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="left"/>
-  <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="50%" align="middle"/>
+<!--   <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="50%" align="middle"/> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Makwana Bharat+and+Welcome+to+my+Profile!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="100px" align="right"/>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
