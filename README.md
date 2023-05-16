@@ -85,7 +85,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 
 <h2></h2>
 
-<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 
 <h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
@@ -98,7 +98,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 
 <div align="center">
   <img src="./pixel-night.gif" alt="pixel city night" width="100%" /><br>
-</div> -->
+</div>
 
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
@@ -139,11 +139,6 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <a href="https://github.com/AJAX-Codder/Spend_Tracker" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/>
   </a>
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/> -->
-<!--   <span>&nbsp;</span>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
-  </a> -->
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
 <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/>
