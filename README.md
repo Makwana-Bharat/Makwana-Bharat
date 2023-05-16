@@ -117,7 +117,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=HalDharak&theme=radical" width="49%" height="50%" alt="HalDharak"/>
   </a>
   <a href="https://github.com/AJAX-Codder/ALGORITHM_VISUALIZATION" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=ALGORITHM_VISUALIZATION&theme=radical" width="49%" alt="ALGORITHM_VISUALIZATION"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=ALGORITHM_VISUALIZATION&theme=radical" width="49%" height="50%" alt="ALGORITHM_VISUALIZATION"/>
   </a>
   <a href="https://github.com/AJAX-Codder/pathdarshak" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=pathdarshak&theme=radical" width="49%" alt="Pathdarshak"/>
