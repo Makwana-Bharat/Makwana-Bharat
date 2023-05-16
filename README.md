@@ -106,7 +106,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=AJAX-Codder&theme=radical&no-frame=true&no-bg=true" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-<!--   <img src="https://streak-stats.demolab.com?user=Ajax-Codder&theme=radical" width="49%" alt="streaks graph" /> -->
+  <img src="https://streak-stats.demolab.com?user=Ajax-Codder&theme=radical"  alt="streaks graph" />
 <!--   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=AJAX-Codder&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /> -->
 </div> <br>
 <div align="center">
