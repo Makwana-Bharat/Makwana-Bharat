@@ -114,7 +114,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/AJAX-Codder/HalDharak" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=HalDharak&theme=radical" width="49%" height="50%" alt="HalDharak"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=HalDharak&theme=radical" width="49%" height="300px" alt="HalDharak"/>
   </a>
   <a href="https://github.com/AJAX-Codder/ALGORITHM_VISUALIZATION" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=ALGORITHM_VISUALIZATION&theme=radical" width="49%" height="50%" alt="ALGORITHM_VISUALIZATION"/>
