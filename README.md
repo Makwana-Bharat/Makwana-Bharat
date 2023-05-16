@@ -20,17 +20,18 @@
 
 <h2 align="center"> Self-taught &nbsp; <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> and passionate<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Makwana Bharat👋, a college student, I'm currently pursuing a Master Degree MCA in the Dharamshih Desai Universe 🎓. <br><br><br>
+👨‍💻 Greetings! I am Makwana Bharat, a dedicated college student currently pursuing a Master's Degree in Computer Applications (MCA) at Dharamshih Desai Universe. 🎓
 
-* 🌳 I’m currently learning TypeScript, React andReact Native! <br><br><br>
+🌳 My current areas of focus are TypeScript, React, and React Native, as I strive to enhance my skills and knowledge in these cutting-edge technologies.
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+🐾 Beyond my academic pursuits, I am eager to connect with fellow professionals and establish meaningful relationships within this community.
 
-* 🌊 2024 Goals: Get Job In Top MNC Companies... <br><br><br>
+🌊 Looking ahead to 2024, my primary objective is to secure a position within a leading multinational corporation, utilizing my expertise and contributing to their success.
 
-* ☕ Interest: Designing, Drawing, Coffee, and Coding. <br><br><br>
+☕ In my free time, I find joy in exploring various creative outlets such as designing and drawing. Additionally, I am deeply passionate about coding and find solace in the world of programming.
 
-* <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, and Playing <br><br>
+Feel free to connect with me on GitHub and let's embark on a journey of professional growth and collaboration!
+
 
 <h2></h2>
 
