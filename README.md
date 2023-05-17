@@ -99,8 +99,6 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=AJAX-Codder&theme=radical&no-frame=true&no-bg=true" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AJAX-Codder&theme=radical)](https://git.io/streak-stats)
-  
   
 </div> <br>
 <div align="center">
