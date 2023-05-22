@@ -135,4 +135,4 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   </a>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
-<img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/>
+<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
