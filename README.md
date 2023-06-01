@@ -114,6 +114,9 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/AJAX-Codder/cultivator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=cultivator&theme=radical" width="49%" alt="Cultivator"/>
+  </a>
   <a href="https://github.com/AJAX-Codder/ALGORITHM_VISUALIZATION" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=ALGORITHM_VISUALIZATION&theme=radical" width="49%" height="50%" alt="ALGORITHM_VISUALIZATION"/>
   </a>
@@ -123,14 +126,8 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <a href="https://github.com/AJAX-Codder/VBior_React_Native_Cli" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical&custom_title=VBior" width="49%" alt="Voice Based Code Editor"/>
   </a>
-  <a href="https://github.com/AJAX-Codder/cultivator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=cultivator&theme=radical" width="49%" alt="Cultivator"/>
-  </a>
   <a href="https://github.com/AJAX-Codder/Spend_Tracker" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/>
-  </a>
-  <a href="https://github.com/AJAX-Codder/HalDharak" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=HalDharak&theme=radical" width="49%" alt="Spend_Tracker"/>
   </a>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
