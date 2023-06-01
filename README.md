@@ -126,9 +126,6 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <a href="https://github.com/AJAX-Codder/VBior_React_Native_Cli" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical&custom_title=VBior" width="49%" alt="Voice Based Code Editor"/>
   </a>
-  <a href="https://github.com/AJAX-Codder/Spend_Tracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=Spend_Tracker&theme=radical" width="49%" alt="Spend_Tracker"/>
-  </a>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
 <!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
