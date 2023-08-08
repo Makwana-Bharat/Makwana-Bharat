@@ -80,7 +80,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <img src="https://skillicons.dev/icons?i=react,redux,mongodb,firebase,python" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,docker,express,linux,vue" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular,docker,express,linux,vue" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
