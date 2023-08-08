@@ -100,7 +100,6 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <img src="https://github-profile-trophy.vercel.app/?username=Makwana-Bharat&theme=radical&no-frame=true&no-bg=true" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
  
   [![GitHub Streak](https://streak-stats.demolab.com?user=Makwana-Bharat&theme=radical)](https://git.io/streak-stats)  
-</div> <br>
 
 <h2></h2>
 
