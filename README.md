@@ -102,10 +102,6 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   [![GitHub Streak](https://streak-stats.demolab.com?user=Makwana-Bharat&theme=radical)](https://git.io/streak-stats)
   
 </div> <br>
-<div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Makwana-Bharat&area=true&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E" alt="Makwana Bharat Github Activity Graph" width="100%">
-</div>
-
-</br>
 
 <h2></h2>
 
