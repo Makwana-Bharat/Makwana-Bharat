@@ -41,8 +41,8 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 <div align="center">
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
   <a href="https://www.hackerrank.com/Makwana_Bharat"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  <a href="https://leetcode.com/2018bharatmakwana/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.codingninjas.com/studio/profile/AJAX"><img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
 
 </div></br>
 
