@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/AJAX-Codder/count.svg" />
+  <img src="https://profile-counter.glitch.me/Makwana-Bharat/count.svg" />
 </div>
 
 <h2></h2>
@@ -57,7 +57,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAX-Codder&theme=radical&card_width=540&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makwana-Bharat&theme=radical&card_width=540&layout=compact"/>
   <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
@@ -97,12 +97,12 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AJAX-Codder&theme=radical&no-frame=true&no-bg=true" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Makwana-Bharat&theme=radical&no-frame=true&no-bg=true" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AJAX-Codder&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Makwana-Bharat&theme=radical)](https://git.io/streak-stats)
   
 </div> <br>
-<div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AJAX-Codder&area=true&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E" alt="Makwana Bharat Github Activity Graph" width="100%">
+<div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Makwana-Bharat&area=true&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E" alt="Makwana Bharat Github Activity Graph" width="100%">
 </div>
 
 </br>
@@ -114,17 +114,17 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/AJAX-Codder/cultivator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=cultivator&theme=radical" width="49%" alt="Cultivator"/>
+  <a href="https://github.com/Makwana-Bharat/cultivator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Makwana-Bharat&repo=cultivator&theme=radical" width="49%" alt="Cultivator"/>
   </a>
-  <a href="https://github.com/AJAX-Codder/ALGORITHM_VISUALIZATION" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=ALGORITHM_VISUALIZATION&theme=radical" width="49%" height="50%" alt="ALGORITHM_VISUALIZATION"/>
+  <a href="https://github.com/Makwana-Bharat/ALGORITHM_VISUALIZATION" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Makwana-Bharat&repo=ALGORITHM_VISUALIZATION&theme=radical" width="49%" height="50%" alt="ALGORITHM_VISUALIZATION"/>
   </a>
-  <a href="https://github.com/AJAX-Codder/pathdarshak" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=pathdarshak&theme=radical" width="49%" alt="Pathdarshak"/>
+  <a href="https://github.com/Makwana-Bharat/pathdarshak" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Makwana-Bharat&repo=pathdarshak&theme=radical" width="49%" alt="Pathdarshak"/>
   </a>
-  <a href="https://github.com/AJAX-Codder/VBior_React_Native_Cli" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJAX-Codder&repo=VBior_React_Native_Cli&theme=radical&custom_title=VBior" width="49%" alt="Voice Based Code Editor"/>
+  <a href="https://github.com/Makwana-Bharat/VBior_React_Native_Cli" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Makwana-Bharat&repo=VBior_React_Native_Cli&theme=radical&custom_title=VBior" width="49%" alt="Voice Based Code Editor"/>
   </a>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
